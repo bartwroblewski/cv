@@ -184,3 +184,8 @@ section:last-child {
 	margin-bottom: 3px;
 }
 
+#closure {
+    margin: 1em;
+    font-style: italic;
+    font-size: .8em;
+}
