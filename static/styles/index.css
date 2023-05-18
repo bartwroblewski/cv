@@ -160,6 +160,11 @@ section:last-child {
     margin-left: 1em;
 }
 
+.tasklist__indented > li {
+    /* list-style-type: none; */
+    margin-left: 1em;
+}
+
 .keySkills {
 	/* list-style-type: none; */
 	-moz-column-count:2;
