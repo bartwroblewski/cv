@@ -1,6 +1,0 @@
-- doctype html w samplerze
-- zmienic nazwy repozytoriow na githubie
-- screenshoty dodac do repozytoriow
-- opisac projekty na githubie
-- dodac readme do minska i url do wersji Live
-- poprawic daty stanowisk w CV
