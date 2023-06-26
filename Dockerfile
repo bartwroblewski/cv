@@ -10,4 +10,4 @@ COPY . .
 
 ENV FLASK_APP=views.py
 
-ENTRYPOINT ["flask", "run", "--host", "0.0.0.0"]
+ENTRYPOINT ["flask", "run", "--host", "0.0.0.0", "--reload"]
