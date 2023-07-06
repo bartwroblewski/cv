@@ -15,7 +15,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
 
-html {background: #181818; font-family:'Lato'; font-size: 16px; color: var(--main-font-color);}
+html {background: #181818; font-family:'Rokkitt'; font-size: 16px; color: var(--main-font-color);}
 
 .clear {clear: both;}
 
@@ -139,14 +139,12 @@ section:last-child {
 }
 
 .sectionTitle h1 {
-	font-family: 'Rockitt';
 	font-style: none;
 	font-size: 1.5em;
 	color: grey;
 }
 
 .sectionContent h2 {
-	/* font-family: var(--main-font); */
 	font-size: 1.5em;
 	margin-bottom: -2px;
 }
